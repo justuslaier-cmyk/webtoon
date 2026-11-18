@@ -1,0 +1,29 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: ASSET_REGISTER_v03.csv>
+index,Asset ID,Class,Identity,Approval status,Image,Continuity lock
+0,CHR-AREN,character,"Aren, age 8",APPROVED BASE,a_clean_character_design_sheet_concept_art_illus.png,"Blond tousled hair, violet eyes, round childlike face; costume provisional"
+1,CHR-MIRA,character,"Mira, age 8",APPROVED MASTER,a_clean_character_sheet_illustration_on_a_light_of.png,"Black hair, red bow, red eyes, cream dress; first appears EP004"
+2,CHR-AELORIA,character,Aeloria,APPROVED MASTER,a_clean_character_design_sheet_on_a_pale_cream_bac.png,"Blonde wavy hair, ruby eyes, white gown, gold adornments"
+3,CHR-EVELISSE,character,Evelisse,APPROVED MASTER,evelisse_kriegerin_in_gold_und_schwarz.png,"Black hair, gold eyes, black/gold combat attire"
+4,CHR-MAELA,character,"Maela, Aren's mother",UNAPPROVED DRAFT,a_character_design_sheet_illustration_in_a_muted.png,"Brown hair in low bun, freckles, warm eyes, brown apron; approval needed"
+5,CHR-DAREN,character,"Daren, father",NOT DESIGNED,,Design required before first visual appearance EP002
+6,CHR-TAVI,character,"Tavi, sibling",NOT DESIGNED,,Design required before first visual appearance EP002
+7,CHR-JOREN,character,Joren,NOT DESIGNED,,Design required before first visual appearance
+8,CHR-SIV,character,Siv,NOT DESIGNED,,Species and character reference required
+9,CHR-ODRIN,character,Odrin,NOT DESIGNED,,Officer reference required
+10,CHR-ILYAN,character,Ilyan,NOT DESIGNED,,Recruit reference required
+11,CHR-SERETH,character,Sereth,NOT DESIGNED,,Resistance leader reference required
+12,CHR-NERA,character,Nera,NOT DESIGNED,,Alien medic and species reference required
+13,CHR-BRAKK,character,Brakk,NOT DESIGNED,,Alien guard and species reference required
+14,CHR-RHEL,character,Rhel,NOT DESIGNED,,Archivist reference required
+15,LOC-VILLAGE,location,The home village,CONSTRUCTION DRAFT,,"Fields foreground, village right, distant hills, single alien moon upper right"
+16,LOC-HOUSE,location,Aren's house exterior,CONSTRUCTION DRAFT,,Window direction must match bedroom plan
+17,LOC-ROOM,location,Aren's room,CONSTRUCTION DRAFT,,"Door WEST left, window EAST right, desk beneath window, bed at left rear"
+18,LOC-KITCHEN,location,Home kitchen,NOT DESIGNED,,Heard offscreen EP001; appears visually EP002
+19,LOC-RIVER,location,River,NOT DESIGNED,,Recurring location; design before EP005
+20,LOC-HILL,location,Childhood hill,NOT DESIGNED,,Recurring location; design before EP007
+21,PROP-NOTEBOOK,prop,Star notebook,CONSTRUCTION DRAFT,,Fixed page A stars and ring planet; page B flying boat with exactly three wings
+22,PROP-PENCIL,prop,Drawing stick,CONSTRUCTION DRAFT,,"Short charcoal stick, stains right thumb"
+23,PROP-BLANKET,prop,Blanket,CONSTRUCTION DRAFT,,"Simple cream blanket, charcoal stain introduced P21"
+24,PROP-GLIDER,prop,Flying boat drawing,CONSTRUCTION DRAFT,,Child's boat body and exactly three uneven wings
+25,PROP-BOWLS,prop,Breakfast bowls,CONSTRUCTION DRAFT,,"Two simple clay bowls, no other visible characters"
