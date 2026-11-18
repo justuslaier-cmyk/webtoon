@@ -1,0 +1,7 @@
+# INTERNE AUTORENLOGIK — NICHT ALS LESERENTHÜLLUNG FREIGEGEBEN
+
+> Achtung: Dieses Dokument ist auf einem **öffentlichen Repository** für alle sichtbar. Vertrauliche Geschichte kann damit öffentlich gespoilert werden.
+
+Aeloria und der Urgott waren in einer uralten Epoche verbunden und hatten ein Kind. Aus dessen Nachfahren entstand die biologische kaiserliche Blutlinie. Der Urgott verriet Aeloria und versiegelte sie in einem uralten Tempel. Die Göttin inszeniert Arens Tempelbegegnung und nutzt seinen Schmerz über Zeitschleifen hinweg für Rache. Der Protagonist tötet am vermeintlichen Gipfel des Rachefeldzugs nur die körperliche Manifestation des Urgotts, nicht die jenseits der Zeit existierende Wesenheit. Beim ersten hier erzählten Zyklus lässt sich Aeloria erstmals intim auf Aren ein und entwickelt echte Liebe; dadurch ändert sich die Erinnerungslage beim folgenden Durchlauf. Der erneute Zyklus wird **durch die Verweigerung der göttlichen Machtannahme** unterbrochen, nicht durch den tragischen Suizid als angebliche Erlösung. Die verborgene Mechanik soll nur über diskrete Hinweise erahnbar sein, nie offen als Erklärtext im Webtoon.
+
+Originalprotokolle: [Ursprung](../archiv/Protokolle/2026-11-17_GEHEIME_URGESCHICHTE.md), [Zeitschleife-Entwurf](../archiv/Protokolle/2026-11-17_ZEITSCHLEIFE_GEHEIME_GOTTERPLANUNG.md), [bestätigte Zeitschleife](../archiv/Protokolle/2026-11-17_ZEITSCHLEIFE_BESTAETIGTER_KANON.md).
