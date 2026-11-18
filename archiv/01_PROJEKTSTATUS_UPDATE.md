@@ -1,0 +1,2 @@
+# Projektstatus – Ergänzung 2026-11-17
+Status: PLANUNG. Nutzer wünscht einen über mehrere hundert Episoden angelegten Space-Fantasy-Webtoon mit langem Sklaven-/Soldaten-Arc, OP-Entwicklung, zentraler Göttinnen-Romanze, Manipulation durch Alienprinzessin, Verrat, Schuld, tragischem Ende und Wiederholung des Lebens. Vollständige Vision siehe 02_STORY_BIBLE_ENTWURF.md. Kein endgültiger Storykanon freigegeben.

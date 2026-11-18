@@ -1,0 +1,2 @@
+# Ergänzung Änderungsprotokoll
+2026-11-17 | PLOT-001 | PLANUNG | Gesamtvision des Nutzers mit allen großen Handlungsabschnitten und Ende dokumentiert. Nicht endgültig freigegeben; die offenen Regeln und Fragen sind im Story-Entwurf festgehalten.
